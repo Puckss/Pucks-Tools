@@ -3,7 +3,7 @@
 Pucks tools Features:
 
 - Webhook Spammer / Sender
-- Nuke
+- Nuker
 - Nitro checker / gen (sends to a webhook)
 
 
